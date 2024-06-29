@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Camilo Garcia Trillos
-- 🌱 I’m a lecturer in Financial Mathematics at UCL
+- 🌱 I’m an Associate Professor in Mathematics at UCL
 - 💞️ I’m looking to collaborate on ML, Numerical Probability, Financial Maths 
 - 📫 How to reach me camilo.garcia@ucl.ac.uk
 - My website: camilogarciatrillos.com
